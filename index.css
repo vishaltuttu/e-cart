@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#hero {
+    color: #fff;
+}
+
+#features .fa {
+    color: #007bff;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.head
+{
+
+    background-color: aquamarine;
+}
